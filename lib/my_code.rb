@@ -2,5 +2,5 @@
 def map (array)
   i = 0
   while i < array.length
-  array.push()
+  new.push(yield(array[i]))
 end
