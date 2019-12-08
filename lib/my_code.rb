@@ -19,6 +19,6 @@ else
   
 end
 while i < array.length 
-  yeild(num,array[i])
+  yeild(num,array[i]) {}
 end
 end
