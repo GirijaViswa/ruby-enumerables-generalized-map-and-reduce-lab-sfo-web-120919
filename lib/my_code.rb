@@ -10,5 +10,7 @@ new
 end
 
 def reduce (array, sp = nil)
-
+  if sp
+  
+end
 end
