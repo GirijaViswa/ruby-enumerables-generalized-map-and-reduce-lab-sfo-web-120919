@@ -9,6 +9,6 @@ end
 new
 end
 
-def reduce (array, sp = 0)
+def reduce (array, sp = nil)
 
 end
