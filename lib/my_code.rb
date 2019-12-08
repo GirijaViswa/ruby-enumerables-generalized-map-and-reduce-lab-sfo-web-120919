@@ -11,6 +11,13 @@ end
 
 def reduce (array, sp = nil)
   if sp
+    num = sp
+    i = 0
+else
+  num = array[0]
+  i = 1
   
 end
+while i < array.length 
+
 end
