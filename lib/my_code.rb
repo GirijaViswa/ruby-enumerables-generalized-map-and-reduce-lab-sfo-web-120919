@@ -8,3 +8,7 @@ def map (array)
 end
 new
 end
+
+def reduce (array, sp = 0)
+
+end
